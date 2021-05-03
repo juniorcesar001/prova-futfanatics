@@ -1,0 +1,5 @@
+
+1 -> Importar Banco SQL
+2 -> Mudar Configurações de Banco de Dados no src/Connect.php
+
+3-> Ficou faltando as Opções de Alterar, Excluir e Marcar Check no Banco
